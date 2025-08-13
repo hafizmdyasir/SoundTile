@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sound Tile</string>
+    <string name="normal">Ringer</string>
+    <string name="silent">Silent</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="permission_required">DND Permission Required</string>
+    <string name="permission_description">This app needs permission to change Do Not Disturb mode. Would you like to go to settings to grant this permission?</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
